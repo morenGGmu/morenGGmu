@@ -1,6 +1,6 @@
 <img align="right" src="https://raw.githubusercontent.com/mohamedelkashef15/mohamedelkashef15/main/github-profile.png" width="30%">
 <h1>
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Moren!;I'm+a+Cybersecurity+Expert;I'm+also+Web+Developer;And)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Moren!;I'm+a+Cybersecurity+Expert;I'm+also+Web+Developer;And)](https://git.io/typing-svg)]
 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
