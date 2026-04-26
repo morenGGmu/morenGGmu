@@ -1,65 +1,48 @@
-<img align="right" src="https://raw.githubusercontent.com/mohamedelkashef15/mohamedelkashef15/main/github-profile.png" width="30%">
+<div>
+    <div align=center>
+        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
+    </div>
+    <div align=center>
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Fathy+%F0%9F%91%8B;Computer+Science+Student;Back-End+Engineer;Problem+Solver;Freelancer;Open-Source+Enthusiast" alt="Headline" />
+    </div>
+    <div align=center>
+        <a href="https://www.linkedin.com/in/ahmedfathydev/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
+        <a href="https://www.upwork.com/freelancers/~0121ca7f3563e57c0b"><img src="https://img.shields.io/badge/Upwork-494949?style=flat&logo=upwork" alt="UpWork" /></a>
+        <a href="https://stackoverflow.com/users/11837259/ahmed-fathy"><img src="https://img.shields.io/badge/Stack Overflow-f48024?style=flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
+        <a href="https://www.quora.com/profile/Ahmed-Fathy-616"><img src="https://img.shields.io/badge/Quora-B92B27?style=flat&logo=quora" alt="Quora" /></a>
+        <a href="https://t.me/ahmedfathydev"><img src="https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram" alt="Telegram" /></a>
+    </div>
+    <div align=left>
+        <br>
+        <p>
+            <strong>
+                Computer Science Student, Back-End Engineer, Problem Solver, Freelancer, and Open-Source Enthusiast.<br><br>
+                I specialize in .NET Core and Microsoft SQL Server and I have experience working with Angular. Good in Algorithms, Data Structures, Database Systems, Object-Oriented Programming, Design Patterns, and Problem Solving skills.<br><br>
+                I am passionate about learning .NET, all Back-End Technologies, Web 3, Blockchain, Linux, Virtualization, Cloud Computing, and DevOps.<br><br>
+                Detailed-oriented, responsible, and committed engineer, with a get-it-done, on-time, and high-quality product spirit. Self and quick learner, self-motivated, and social.
+            </strong>
+        </p>
+        <ul>
+            <li>🌱 <b>I’m currently learning</b>: Computer Science and Software Engineering.</li>
+            <li>🎯 <b>I’m currently focusing on</b>: <a href="https://ahmedfathydev.github.io/Problem-Solving/">Problem-Solving</a>, ⭐️ star the projects if you like it 🤩.</li>
+            <li>🤔 <b>I’m currently open for</b>: A new job opportunity, <a href="https://flowcv.io/resume/feedback/lMhKFXfgJjf8">LINK TO MY RESUME</a>.</li>
+            <li>💬 <b>Ask me about anything</b>: <a href="https://github.com/ahmedfathydev/ahmedfathydev/issues">Here</a>.</li>
+            <li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆, in addition to follow me here.</li>
+            <li>😄 <b>Fun fact</b>: I love Cars(🚗), Coding(💻), Traveling(🌍), and Photography(📷).</li>
+            <li>👨‍💻 <b>Hire me for Full Stack Development jobs</b>: <a href="https://www.upwork.com/freelancers/~0121ca7f3563e57c0b?s=1110580755107926016">Link to my UpWork Full Stack Development Specialization</a>.</li>
+            <li>👨‍💻 <b>Hire me for Back-End Development jobs</b>: <a href="https://www.upwork.com/freelancers/~0121ca7f3563e57c0b?s=1110580748673863680">Link to my UpWork Back-End Development Specialization</a>.</li>
+        </ul>
+    </div>
+    <div align=center>
+        <h1>Contribution Activity</h1>
+        <img src="https://github-readme-stats.vercel.app/api?username=ahmedfathydev&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="200" />
+        <br>
+        <!--
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedfathydev&layout=compact&title_color=6FDA44&text_color=FFFFFF&theme=dark" alt="GitHub Most Used Languages" height="200" />
+        <br>
+        -->
+        Credit: AhmedFathyDev
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Architects+Daughter&color=6FDA44&size=32&center=true&vCenter=true&width=700&height=60&lines=Hey!+It's+Moren!;Cybersecurity+Expert+%26+Web+Developer;Secure+Code.+Hardened+Defenses.;Turning+bugs+into+bounties.)](https://git.io/typing-svg)
-
-<p>
-I'm a cybersecurity expert and web developer. I break things to understand them, then build them back stronger — with clean code and hardened defenses.
-</p>
-
-- 🛡️ I’m currently working on **web application security**, **penetration testing**, and **secure coding practices**.
-- 🔐 I’m currently learning about **cloud security**, **DevSecOps**, and **threat modeling**.
-- 🎯 Future Goals: Help organizations build secure by design — and break into bug bounties full-time.
-
-- 📫 Social links
-<p>
-	<a href="mailto:example@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/morenGGmu"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://wa.me/"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
-	<a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
-	<a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
-</p>
-
-### 🛠 &nbsp;Technologies that I work with
-
-#### 💻 Web Development
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-#### 🔒 Cybersecurity
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
-
-#### 🧰 Tools & Platforms
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-
-<br>
-<a href="https://komarev.com/ghpvc/?username=morenGGmu&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=morenGGmu&style=for-the-badge">
-</a>
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-  <a href="https://github.com/morenGGmu">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=morenGGmu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/morenGGmu">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morenGGmu&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=morenGGmu&theme=algolia&hide_border=true"/>
-</p>
+        Last edited on: 26/04/2025
+    </div>
+</div>
