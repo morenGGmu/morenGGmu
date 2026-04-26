@@ -3,11 +3,11 @@
         <img src="https://raw.githubusercontent.com/mohamedelkashef15/mohamedelkashef15/main/github-profile.png" alt="Cybersecurity Expert & Web Developer" height="200">
     </div>
     <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=700&height=50&lines=Hi+there+I'm+Moren+%F0%9F%91%8B;Cybersecurity+Expert+%26+Web+Developer;Secure+Code.+Hardened+Defenses.;Turning+bugs+into+bounties.;Bug+Bounty+Hunter;DevSecOps+Enthusiast" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=750&height=50&lines=Hi+there+I'm+Moren+%F0%9F%91%8B;Cybersecurity+Expert+%26+Web+Developer;Secure+Code.+Hardened+Defenses.;Turning+bugs+into+bounties.;Bug+Bounty+Hunter;DevSecOps+Enthusiast" alt="Headline" />
     </div>
     <div align=center>
         <a href="https://www.linkedin.com/in/abdallah-elsawy-212479320/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
-        <a href="https://github.com/abdallah-el-sawy"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github" alt="GitHub" /></a>
+        <a href="https://github.com/morenGGmu"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github" alt="GitHub" /></a>
         <a href="https://wa.me/0201027173150"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp" alt="WhatsApp" /></a>
         <a href="mailto:abdallahelsawy706@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail" alt="Gmail" /></a>
         <a href="https://www.facebook.com/abdallah.elsawy.524"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook" alt="Facebook" /></a>
@@ -28,7 +28,7 @@
             <li>🔐 <b>I’m currently learning</b>: Cloud security, DevSecOps, and advanced threat modeling.</li>
             <li>🎯 <b>Future Goals</b>: Help organizations build secure by design — and break into bug bounties full-time.</li>
             <li>💬 <b>Ask me about</b>: OWASP Top 10, Secure SDLC, PHP/Laravel security, or starting in bug bounty.</li>
-            <li>📫 <b>How to reach me</b>: Catch me from the links above 👆 or open an <a href="https://github.com/abdallah-el-sawy/abdallah-el-sawy/issues">issue here</a>.</li>
+            <li>📫 <b>How to reach me</b>: Catch me from the links above 👆 or open an <a href="https://github.com/morenGGmu/morenGGmu/issues">issue here</a>.</li>
             <li>😄 <b>Fun fact</b>: I love hacking (ethically 🕵️), coding(💻), coffee(☕), and solving CTF challenges(🏆).</li>
             <li>⚡ <b>Hire me for Security Audits & Secure Development</b>: Contact me via LinkedIn or email for freelance opportunities.</li>
         </ul>
@@ -63,10 +63,11 @@
             <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
             <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
             <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+            <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
         </p>
         <br>
         <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
-        <p>Always securing, always coding... 🔒</p>
+        <p>Loading</p>
     </div>
 </div>
 
