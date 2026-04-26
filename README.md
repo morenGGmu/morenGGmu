@@ -1,48 +1,78 @@
 <div>
     <div align=center>
-        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
+        <img src="https://raw.githubusercontent.com/mohamedelkashef15/mohamedelkashef15/main/github-profile.png" alt="Cybersecurity Expert & Web Developer" height="200">
     </div>
     <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Fathy+%F0%9F%91%8B;Computer+Science+Student;Back-End+Engineer;Problem+Solver;Freelancer;Open-Source+Enthusiast" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=700&height=50&lines=Hi+there+I'm+Moren+%F0%9F%91%8B;Cybersecurity+Expert+%26+Web+Developer;Secure+Code.+Hardened+Defenses.;Turning+bugs+into+bounties.;Bug+Bounty+Hunter;DevSecOps+Enthusiast" alt="Headline" />
     </div>
     <div align=center>
-        <a href="https://www.linkedin.com/in/ahmedfathydev/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
-        <a href="https://www.upwork.com/freelancers/~0121ca7f3563e57c0b"><img src="https://img.shields.io/badge/Upwork-494949?style=flat&logo=upwork" alt="UpWork" /></a>
-        <a href="https://stackoverflow.com/users/11837259/ahmed-fathy"><img src="https://img.shields.io/badge/Stack Overflow-f48024?style=flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
-        <a href="https://www.quora.com/profile/Ahmed-Fathy-616"><img src="https://img.shields.io/badge/Quora-B92B27?style=flat&logo=quora" alt="Quora" /></a>
-        <a href="https://t.me/ahmedfathydev"><img src="https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram" alt="Telegram" /></a>
+        <a href="https://www.linkedin.com/in/abdallah-elsawy-212479320/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
+        <a href="https://github.com/abdallah-el-sawy"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github" alt="GitHub" /></a>
+        <a href="https://wa.me/0201027173150"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp" alt="WhatsApp" /></a>
+        <a href="mailto:abdallahelsawy706@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail" alt="Gmail" /></a>
+        <a href="https://www.facebook.com/abdallah.elsawy.524"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook" alt="Facebook" /></a>
+        <a href="https://www.instagram.com/abdallahelsawy/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram" alt="Instagram" /></a>
     </div>
     <div align=left>
         <br>
         <p>
             <strong>
-                Computer Science Student, Back-End Engineer, Problem Solver, Freelancer, and Open-Source Enthusiast.<br><br>
-                I specialize in .NET Core and Microsoft SQL Server and I have experience working with Angular. Good in Algorithms, Data Structures, Database Systems, Object-Oriented Programming, Design Patterns, and Problem Solving skills.<br><br>
-                I am passionate about learning .NET, all Back-End Technologies, Web 3, Blockchain, Linux, Virtualization, Cloud Computing, and DevOps.<br><br>
-                Detailed-oriented, responsible, and committed engineer, with a get-it-done, on-time, and high-quality product spirit. Self and quick learner, self-motivated, and social.
+                Cybersecurity Expert and Web Developer passionate about securing applications and infrastructure.<br><br>
+                I specialize in web application security, penetration testing, and secure coding practices. I have strong experience with PHP & Laravel, JavaScript, and database security. Skilled in identifying vulnerabilities (OWASP Top 10), conducting security assessments, and implementing hardened defenses.<br><br>
+                Currently diving deeper into cloud security, DevSecOps, threat modeling, and bug bounty hunting. I break things to understand them, then build them back stronger — with clean code and hardened defenses.<br><br>
+                Detail-oriented, ethical, and committed security professional with a "secure by design" mindset. Quick learner, self-motivated, and passionate about teaching others to code securely.
             </strong>
         </p>
         <ul>
-            <li>🌱 <b>I’m currently learning</b>: Computer Science and Software Engineering.</li>
-            <li>🎯 <b>I’m currently focusing on</b>: <a href="https://ahmedfathydev.github.io/Problem-Solving/">Problem-Solving</a>, ⭐️ star the projects if you like it 🤩.</li>
-            <li>🤔 <b>I’m currently open for</b>: A new job opportunity, <a href="https://flowcv.io/resume/feedback/lMhKFXfgJjf8">LINK TO MY RESUME</a>.</li>
-            <li>💬 <b>Ask me about anything</b>: <a href="https://github.com/ahmedfathydev/ahmedfathydev/issues">Here</a>.</li>
-            <li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆, in addition to follow me here.</li>
-            <li>😄 <b>Fun fact</b>: I love Cars(🚗), Coding(💻), Traveling(🌍), and Photography(📷).</li>
-            <li>👨‍💻 <b>Hire me for Full Stack Development jobs</b>: <a href="https://www.upwork.com/freelancers/~0121ca7f3563e57c0b?s=1110580755107926016">Link to my UpWork Full Stack Development Specialization</a>.</li>
-            <li>👨‍💻 <b>Hire me for Back-End Development jobs</b>: <a href="https://www.upwork.com/freelancers/~0121ca7f3563e57c0b?s=1110580748673863680">Link to my UpWork Back-End Development Specialization</a>.</li>
+            <li>🛡️ <b>I’m currently working on</b>: Web application security, penetration testing, and secure coding practices.</li>
+            <li>🔐 <b>I’m currently learning</b>: Cloud security, DevSecOps, and advanced threat modeling.</li>
+            <li>🎯 <b>Future Goals</b>: Help organizations build secure by design — and break into bug bounties full-time.</li>
+            <li>💬 <b>Ask me about</b>: OWASP Top 10, Secure SDLC, PHP/Laravel security, or starting in bug bounty.</li>
+            <li>📫 <b>How to reach me</b>: Catch me from the links above 👆 or open an <a href="https://github.com/abdallah-el-sawy/abdallah-el-sawy/issues">issue here</a>.</li>
+            <li>😄 <b>Fun fact</b>: I love hacking (ethically 🕵️), coding(💻), coffee(☕), and solving CTF challenges(🏆).</li>
+            <li>⚡ <b>Hire me for Security Audits & Secure Development</b>: Contact me via LinkedIn or email for freelance opportunities.</li>
         </ul>
     </div>
     <div align=center>
         <h1>Contribution Activity</h1>
-        <img src="https://github-readme-stats.vercel.app/api?username=ahmedfathydev&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="200" />
+        <img src="https://github-readme-stats.vercel.app/api?username=abdallah-el-sawy&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="200" />
         <br>
-        <!--
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedfathydev&layout=compact&title_color=6FDA44&text_color=FFFFFF&theme=dark" alt="GitHub Most Used Languages" height="200" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdallah-el-sawy&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats" height="200" />
         <br>
-        -->
-        Credit: AhmedFathyDev
-
-        Last edited on: 26/04/2025
+        <br>
+    </div>
+    <div align=center>
+        <h2>🛠️ Technologies & Tools</h2>
+        <p>
+            <!-- Web Development -->
+            <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+            <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+            <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+            <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+            <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+            <br>
+            <!-- Cybersecurity -->
+            <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
+            <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+            <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
+            <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+            <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP" />
+            <br>
+            <!-- Tools -->
+            <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
+            <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+            <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+            <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman" />
+        </p>
+        <br>
+        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
+        <p>Always securing, always coding... 🔒</p>
     </div>
 </div>
+
+------
+
+Credit: [Moren](https://github.com/morenGGmu)
+
+Last edited on: Abril 2026
