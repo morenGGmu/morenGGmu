@@ -1,6 +1,6 @@
 <img align="right" src="https://raw.githubusercontent.com/mohamedelkashef15/mohamedelkashef15/main/github-profile.png" width="30%">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Architects+Daughter&color=7AF79A&size=28&width=550&lines=Hey!+It's+Moren!;Cybersecurity+Expert+%26+Web+Developer;Secure+Code.+Hardened+Defenses.;Turning+bugs+into+bounties.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Architects+Daughter&color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hey!+It's+Moren!;Cybersecurity+Expert+%26+Web+Developer;Secure+Code.+Hardened+Defenses.;Turning+bugs+into+bounties.)](https://git.io/typing-svg)
 
 <p>
 I'm a cybersecurity expert and web developer. I break things to understand them, then build them back stronger — with clean code and hardened defenses.
