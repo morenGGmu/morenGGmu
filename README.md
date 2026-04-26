@@ -7,7 +7,10 @@
 "El código inseguro es la puerta de entrada. Mi trabajo es cerrarla antes de que alguien la encuentre."
 <!--
 **morenGGmu/morenGGmu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+•Experto/aenciberseguridad.
+•Auditor/adeciberseguridad.
+•Consultor/adeciberseguridad.
+•Hackerético
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
