@@ -1,5 +1,10 @@
 ## Hi there 👋
+# Web Developer & Cybersecurity Expert
 
+![Banner](https://via.placeholder.com/1000x200/0a0f1c/00ffcc?text=PHP+%7C+JavaScript+%7C+Secure+Code+%7C+Offensive+Security)
+
+```text
+"El código inseguro es la puerta de entrada. Mi trabajo es cerrarla antes de que alguien la encuentre."
 <!--
 **morenGGmu/morenGGmu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
