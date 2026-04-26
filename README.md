@@ -48,3 +48,19 @@ I'm a cybersecurity expert and web developer. I break things to understand them,
 <a href="https://komarev.com/ghpvc/?username=abdallah-el-sawy&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=abdallah-el-sawy&style=for-the-badge">
 </a>
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/morenGGmu">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=morenGGmu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/morenGGmu">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=morenGGmu&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=morenGGmu&theme=dark&hide_border=true"/>
+</p>
+
