@@ -8,10 +8,10 @@
     <div align=center>
         <a href="https://www.linkedin.com/in/abdallah-elsawy-212479320/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
         <a href="https://github.com/morenGGmu"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github" alt="GitHub" /></a>
-        <a href="https://wa.me/0201027173150"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp" alt="WhatsApp" /></a>
-        <a href="mailto:abdallahelsawy706@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail" alt="Gmail" /></a>
-        <a href="https://www.facebook.com/abdallah.elsawy.524"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook" alt="Facebook" /></a>
-        <a href="https://www.instagram.com/abdallahelsawy/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram" alt="Instagram" /></a>
+        <a href="https://wa.me/"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp" alt="WhatsApp" /></a>
+        <a href="mailto:example@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail" alt="Gmail" /></a>
+        <a href="https://www.facebook.com/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook" alt="Facebook" /></a>
+        <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram" alt="Instagram" /></a>
     </div>
     <div align=left>
         <br>
